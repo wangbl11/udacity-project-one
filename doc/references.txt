@@ -1,0 +1,13 @@
+############URL########################
+1. url to get language code
+http://www.lingoes.net/en/translator/langcode.htm
+https://en.youbianku.com/Beijing
+http://lbsyun.baidu.com/index.php?title=webapi
+http://lbs.amap.com/api/webservice/summary/
+https://docs.mongodb.com/
+
+###################python libs#####################
+urllib
+BeautifulSoup
+
+
